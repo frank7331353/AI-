@@ -1,0 +1,5 @@
+{
+  "name": "AI 分镜生成器",
+  "description": "A professional storyboard generation tool using Gemini 2.5 Flash. Supports multi-shot generation, reference image inputs, custom aspect ratios (1:1, 3:4), and batch downloading.",
+  "requestFramePermissions": []
+}
